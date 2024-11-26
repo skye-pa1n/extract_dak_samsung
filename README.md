@@ -35,9 +35,9 @@ gakeccert.1.der
 
 gakeccert.2.der
 
-and some other shet
+and some other SAK (Samsung attestation keys) shet
 
 
-now its up to you to decrypt thy keys you found yay1!!1!1!
+now its up to you to decrypt thy keys you found yay1!!1!1! (openssl should do it fine tbh)
 
 Happy hecking or whatever idc lel
