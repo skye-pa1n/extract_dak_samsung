@@ -15,17 +15,29 @@ dd if=/dev/block/bootdevice/by-name/efs of=/sdcard/efs.img
 ```
 
 Extract the file located at /sdcard/efs.img with zarchiver.
-Done.
-You will have a Funni folder called DAK (Device attestation Keys)
-inside this folder you will have:
+
+Thats it, its done.
+
+You will have a Funni folder called DAK (Device attestation Keys) and inside this folder you will have:
+
+
 GAK_EC.private
+
 GAK_EC.val
+
 GAK_RSA.private
+
 GAK_RSA.val
+
 gakeccert.0.der
+
 gakeccert.1.der
+
 gakeccert.2.der
+
 and some other shet
+
+
 now its up to you to decrypt thy keys you found yay1!!1!1!
 
 Happy hecking or whatever idc lel
