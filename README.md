@@ -47,3 +47,5 @@ And some other SAK (Samsung attestation keys) & SGAK Keys.
 Now its up to you to decrypt thy keys you found.
 
 Happy hecking or whatever idc lel
+
+Of to the races!!!
