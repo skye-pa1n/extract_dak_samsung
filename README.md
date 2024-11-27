@@ -10,6 +10,7 @@ This was tested on a 2020 samsung device, but theoretically any samsung device w
 # **Notes**
 
 You **need** to be rooted.
+
 This guide won't guide you on how to decrypt the keys.
 
 # **How-to**
