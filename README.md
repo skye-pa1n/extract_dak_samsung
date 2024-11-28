@@ -5,7 +5,7 @@ Requirements:
 You must be on a rooted device.
 You must have a working brain (optional).
 You need to have termux installed.
-This was tested on a Galaxy S20FR (2020 Samsung device), but theoretically any Samsung device with a efs partition should be able to it.
+This was tested on a Galaxy S20FE (2020 Samsung device), but theoretically any Samsung device with a EFS partition should be able to it.
 
 # **Notes**
 
