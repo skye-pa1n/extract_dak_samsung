@@ -15,7 +15,7 @@ This guide **WILL NOT** guide you on how to decrypt the EC & RSA keys. (They are
 
 # **How-to**
 
-Run this command on termux as root to move your efs partition to your jnternal memory.
+Run this command on termux as root to move your efs partition to your internal memory.
 ```
 dd if=/dev/block/bootdevice/by-name/efs of=/sdcard/efs.img
 ```
