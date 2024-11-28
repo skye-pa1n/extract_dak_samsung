@@ -1,7 +1,7 @@
 # Extract DAK from any 2020 Samsung Device
 This guide will teach you on how to extract the Device Attestation Keys from your 2020 Samsung Device.
 
-Requirements:
+# Requirements:
 You must be on a rooted device.
 You must have a working brain (optional).
 You need to have termux installed.
@@ -152,3 +152,6 @@ Certificate:
         05:ff:9b:18:cc:1b:e2:7a:a6:a9:1a:a6:11:49:2d:a2:1c:67:
         88:be:84:92:24:47:98:6e:ee:ea:58:f6
 ```
+
+# License
+This project is licensed under the GPLv2.
