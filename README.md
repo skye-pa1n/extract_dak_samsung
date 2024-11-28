@@ -44,7 +44,7 @@ gakeccert.2.der
 
 And some other SAK (Samsung attestation keys) & SGAK Keys.
 
-# *"Decrypt"* .der files (Certificates)
+# *"Decrypt"* .der files (Certificates) (They aren't even encrypted, they are as-is)
 Run this on termux at the directory the .der files are at
 ```
 openssl x509 -noout -text -inform der -in NAMEOFTHECERT.der
@@ -52,7 +52,7 @@ openssl x509 -noout -text -inform der -in NAMEOFTHECERT.der
 
 # What about .private/.val keys
 
-Well, now its up to you to decrypt the keys you found.
+Well, now its up to you to decrypt the keys you found (or no).
 
 They Are encrypted with an unknown private key from what ive seen, so good luck trying to be the first to decrypt them (or just decrypting one of them at all).
 
