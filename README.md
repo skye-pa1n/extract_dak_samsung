@@ -11,7 +11,7 @@ This was tested on a Galaxy S20FE (2020 Samsung device), but theoretically any S
 
 You **need** to be rooted.
 
-This guide **WILL NOT** guide you on how to decrypt the EC & RSA keys. (They are prob encrypted to industry standart.)
+This guide **WILL NOT** guide you on how to decrypt the EC & RSA keys. (They are prob encrypted to industry standart.) (Or them may be in a private key inside the BL/EDL, idk.)
 
 # **How-to**
 
