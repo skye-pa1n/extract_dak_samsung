@@ -55,8 +55,8 @@ They Are encrypted with an unknown private key from what ive seen, so good luck 
 
 Now its of to the races!!!
 
-## Proof-of-concept
-# How does a google .der certificate looks alike?
+## Proofs
+# This is how one of the **Google** (GAK) .der certificates from the S20FE looks alike.
 
 ```
 Certificate:
@@ -101,7 +101,7 @@ Certificate:
 ```
 
 
-# How does a Samsung .der Certificate looks alike?
+# How does one of the **Samsung** .der (SAK) Certificates from the S20FE looks alike?
 
 ```
 Certificate:
