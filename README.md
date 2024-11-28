@@ -3,15 +3,18 @@ This guide will teach you on how to extract the Device Attestation Keys from you
 
 # Requirements:
 You must be on a rooted device.
+
 You must have a working brain (optional).
+
 You need to have termux installed.
+
 This was tested on a Galaxy S20FE (2020 Samsung device), but theoretically any Samsung device with a EFS partition should be able to it.
 
 # **Notes**
 
 You **need** to be rooted.
 
-This guide **WILL NOT** guide you on how to decrypt the EC & RSA keys. (They are prob encrypted to industry standart.) (Or them may be in a private key inside the BL/EDL, idk.)
+This guide **WILL NOT** guide you on how to decrypt the EC & RSA keys. (They are prob encrypted to industry standart.) (Or them may be encrypted by a private key inside the BL/EDL, idk.)
 
 # **How-to**
 
